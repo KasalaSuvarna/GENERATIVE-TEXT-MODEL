@@ -17,5 +17,4 @@ To make the model accessible, developers usually deploy it using a web framework
 Throughout the project, tools like Weights & Biases or TensorBoard are used to monitor training progress and compare experiments. In summary, a generative text model project combines machine learning, data processing, and software development to build intelligent systems capable of generating high-quality human-like text for a variety of applications.
 
 * Output * :
-  ![Image](https://github.com/user-attachments/assets/452c51b1-435e-4895-ab1d-f8cad9758afd)
-  
+ ![Image](https://github.com/user-attachments/assets/cb5bf22b-13e4-448a-b030-b6fd1ceb571a)

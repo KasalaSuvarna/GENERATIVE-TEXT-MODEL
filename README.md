@@ -18,3 +18,4 @@ Throughout the project, tools like Weights & Biases or TensorBoard are used to m
 
 * Output * :
  ![Image](https://github.com/user-attachments/assets/cb5bf22b-13e4-448a-b030-b6fd1ceb571a)
+![Image](https://github.com/user-attachments/assets/578b46a4-6421-4132-9fc5-21c181b4c758)

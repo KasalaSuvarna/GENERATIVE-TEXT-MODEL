@@ -15,3 +15,7 @@ Once the model is trained or fine-tuned, it is evaluated using metrics like perp
 To make the model accessible, developers usually deploy it using a web framework like Flask or FastAPI. Tools like Streamlit or Gradio can provide a simple user interface where users can input prompts and view the generated responses. These apps often include settings to adjust generation parameters like temperature or max tokens. For scalability, deployment may be done on cloud platforms such as AWS, Google Cloud, or Azure.
 
 Throughout the project, tools like Weights & Biases or TensorBoard are used to monitor training progress and compare experiments. In summary, a generative text model project combines machine learning, data processing, and software development to build intelligent systems capable of generating high-quality human-like text for a variety of applications.
+
+* Output * :
+  ![Image](https://github.com/user-attachments/assets/452c51b1-435e-4895-ab1d-f8cad9758afd)
+  

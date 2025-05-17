@@ -1,10 +1,16 @@
 # GENERATIVE-TEXT-MODEL
-*CAMPANY* : CODTECH IT SOLUTION 
-*NAME* :Kasala Suvarna Nandini  
+*CAMPANY* : CODTECH IT SOLUTION
+
+*NAME* :Kasala Suvarna Nandini
+
 *INTERN ID* : CODF56
+
 *DOMAIN* : Artifical Intelligence  
+
 *DURATION* : 4 WEEKS 
+
 *MENTOR*: NEELA SANTOSH 
+
 ## Project Describtion :
 A generative text model project focuses on creating a system that can produce human-like text based on an input prompt. These models are a part of natural language processing (NLP), specifically under natural language generation (NLG). The aim is to build a model that understands language patterns and generates coherent, contextually appropriate text. The process begins with identifying the task, such as story generation, chatbot responses, code completion, or document summarization. Next, a suitable dataset is collected—this could be news articles, books, dialogue transcripts, or domain-specific texts. The text data is then cleaned and preprocessed through steps like tokenization, lowercasing, and formatting for model compatibility.
 
